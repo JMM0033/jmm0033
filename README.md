@@ -1,5 +1,16 @@
-### Hi there 👋
+# Hola! Soy Javi
 
+### Técnico en Sistemas Microinformáticos y Redes
+
+
+## Tenologías con las que trabajo:
+[![Static Badge](https://img.shields.io/badge/HTML-WHITE?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23101010&color=grey)]()
+
+## Enlaces:
+
+## Algunos proyectos
+
+## Contacto
 <!--
 **JMM0033/jmm0033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
